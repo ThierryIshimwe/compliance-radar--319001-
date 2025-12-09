@@ -4,8 +4,11 @@
 ## **Compliance Radar — Departmental Risk Detection**
 
 **Team Members:
+
 Mariavittoria Giurato (310091)
+
 Thierry Ishimwe (321371)
+
 Dimitar Ivanov (315691)
 ---
 
